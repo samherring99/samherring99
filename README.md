@@ -1,6 +1,6 @@
 ### Hello, I'm Sam! 👋 
 
-![Banner Image](https://ipfs.io/ipfs/Qma6R5nX2kY6JTuUfqr45JMNToZW3SwV5jCu8WQj8qFMNX)
+![Banner Image](https://raw.githubusercontent.com/samherring99/samherring99/main/banner.png)
 
 I'm a software engineer, data science enthusiast, and smart contract tinkerer looking to expand my knowledge base by contributing to fun and interesting open source projects, as well as creating my own. In my free time I love cooking 🥘, hiking 🧗🏻‍♂️, playing music 🎹, and skiing ⛷. I'm excited to build a growing community online through work and collaborrations that are beneficial to all. 
 
