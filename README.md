@@ -2,7 +2,7 @@
 
 ![Banner Image](https://raw.githubusercontent.com/samherring99/samherring99/main/banner.png)
 
-I'm a software engineer, data science enthusiast, and smart contract tinkerer looking to expand my knowledge base by contributing to fun and interesting open source projects, as well as creating my own. In my free time I love cooking 🥘, hiking 🧗🏻‍♂️, playing music 🎹, and skiing ⛷. I'm excited to build a growing community online through work and collaborrations that are beneficial to all. 
+I'm a software engineer and data science enthusiast looking to expand my knowledge base by contributing to fun and interesting open source projects, as well as creating my own! In my free time I love cooking 🥘, hiking 🧗🏻‍♂️, playing music 🎹, and skiing ⛷. I'm always interested in collaborating, so please feel free to contact me at any of the links below if you're want to build together! 
 
 ## Links
 - My website (in development) 🧪
@@ -14,24 +14,22 @@ I'm a software engineer, data science enthusiast, and smart contract tinkerer lo
 - Python-based ML 🐍 (Tensorflow, Pytorch, Pandas, Keras, Caffe)
 - iOS App Development 📱 (XCode, Swift, Cocoa, Metal)
 - Web Development 💻 (React Native, NodeJS, Oracle SQL)
-- Smart Contracts and Blockchain ₿ Ξ (Solidity, Remix, OpenZeppelin)
 
 # I'm currently working on
-- [Crypto Cowboys 🤠](http://www.cowboynft.io/)
 - Personal Website 🤓
 - TO BE ANNOUNCED ⚠️
 
 # I'm looking to collaborate on 
-- Web3 projects
 - ML/Data science projects
 - iOS app projects
+- Web development projects
 
 # I'm looking for help with
-- On-chain ML algorithms at low cost
-- Multiplayer ARKit Session Connectivity
+- Pretty React site UI design
+- Effective content recommendation in systems without collaborative filtering
 - Finding work :)
 
-Feel free to contact me at any of the above links anytime! I would be happy to answer questions, work with you, or just chat.
+Again, feel free to contact me at any of the above links anytime! I would be happy to answer questions, work with you, or just chat.
 
 <!--
 **samherring99/samherring99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
