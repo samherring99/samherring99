@@ -2,7 +2,7 @@
 
 AI/ML, SWE
 
-Looking to build great things.
+Building great things.
 
 samherring99@gmail.com to reach me
 
